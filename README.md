@@ -46,8 +46,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(https://www.linkedin.com/in/akashbabu220310/)*
-* 📧 Email: *(babuakash.ab.4523@gmail.com)*
+* 💼 LinkedIn: *https://www.linkedin.com/in/akashbabu220310/*
+* 📧 Email: *babuakash.ab.4523@gmail.com*
 
 ---
 

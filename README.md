@@ -1,7 +1,5 @@
 👋Hi there, I'm Akash Babu
-🎓 B.Tech Student at Harcourt Butler Technical University (HBTU), Kanpur
-💻 Aspiring Data Engineer / Data Analyst
-📊 Passionate about turning raw data into meaningful insights
+
 
 <!--
 **Akash4523-babu/Akash4523-babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
